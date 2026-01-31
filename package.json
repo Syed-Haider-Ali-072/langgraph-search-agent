@@ -1,0 +1,22 @@
+{
+  "name": "gen-ai-tut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tavily/core": "^0.5.13",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "groq-sdk": "^0.36.0",
+    "js": "^0.1.0",
+    "node": "^25.2.1",
+    "node-cache": "^5.1.2"
+  }
+}
